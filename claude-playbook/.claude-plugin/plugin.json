@@ -1,0 +1,7 @@
+{
+  "name": "gemba-attention-from-scratch",
+  "version": "0.1.0",
+  "description": "Skill y comandos para explorar mecanismos de atención desde cero — acompaña al artículo Gemba '¿Por qué los LLMs olvidan?'",
+  "author": "José Ramón Pérez Agüera",
+  "license": "MIT"
+}
