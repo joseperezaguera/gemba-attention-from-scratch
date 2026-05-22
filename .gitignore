@@ -7,6 +7,7 @@ venv/
 build/
 dist/
 *.png
+*.csv
 !demos/output/.gitkeep
 .DS_Store
 .idea/
