@@ -15,7 +15,7 @@ Este repositorio no es código de producción. Es código **para entender**. Cad
 ## Empezar en 30 segundos
 
 ```bash
-git clone https://github.com/josemerca/gemba-attention-from-scratch.git
+git clone https://github.com/joseperezaguera/gemba-attention-from-scratch.git
 cd gemba-attention-from-scratch
 pip install numpy matplotlib
 python3 demos/01_attention_basics.py
@@ -38,7 +38,7 @@ Inserta una "aguja" en distintas posiciones de un texto largo y mide cuánto la 
 ## Para entender vs para decidir
 
 - Este repo: **para entender** la mecánica desde dentro.
-- [`gemba-context-needle-runner`](https://github.com/josemerca/gemba-context-needle-runner): **para decidir** midiendo el efecto en modelos comerciales (OpenAI, Anthropic) y abiertos (HuggingFace).
+- [`gemba-context-needle-runner`](https://github.com/joseperezaguera/gemba-context-needle-runner): **para decidir** midiendo el efecto en modelos comerciales (OpenAI, Anthropic) y abiertos (HuggingFace).
 
 ## Tests
 

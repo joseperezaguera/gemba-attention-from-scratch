@@ -34,7 +34,7 @@ Cuando el usuario quiera explorar la mecánica de atención que hay detrás de c
 El repo es `gemba-attention-from-scratch`. Si el usuario no lo tiene clonado todavía:
 
 ```bash
-git clone https://github.com/josemerca/gemba-attention-from-scratch.git
+git clone https://github.com/joseperezaguera/gemba-attention-from-scratch.git
 cd gemba-attention-from-scratch
 pip install -r requirements.txt
 ```
